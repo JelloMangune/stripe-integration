@@ -1,8 +1,8 @@
 {
-    "name": "user/stripe_1.12.0_windows_x86_64",
+    "name": "pc/stripe-integration",
     "autoload": {
         "psr-4": {
-            "User\\Stripe1120WindowsX8664\\": "src/"
+            "Pc\\StripeIntegration\\": "src/"
         }
     },
     "authors": [
